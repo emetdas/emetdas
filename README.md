@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Emet Das
+- 👀 I’m interested in Full-Stack Web Developer
+- 🌱 I’m currently learning  Api Development
+- 💞️ I’m looking to collaborate on Web Developer
