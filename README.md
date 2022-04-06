@@ -2,7 +2,7 @@
 
 
 <li>👀 I’m interested in Full-Stack Web Developer</li>
-<li>🌱 I’m currently learning  Api Development</li>
+<li>📱 I’m currently learning  App Development</li>
 <li>💞️ I’m looking to collaborate on Web Developer</li>
 
 <br>
