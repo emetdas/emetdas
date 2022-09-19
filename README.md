@@ -24,12 +24,12 @@
 your comment goes here
 and here -->
 
-<!-- <br>
+<br>
 <br>
 <a href="https://github.com/emetdas">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emetdas&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/emetdas">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=emetdas&show_icons=true&theme=light&line_height=40" alt="Emet Das Github statistics"/>
-</a> -->
+</a>
 
